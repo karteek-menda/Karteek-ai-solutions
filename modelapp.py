@@ -54,7 +54,7 @@ html_temp = """
     """
 st.markdown(html_temp, unsafe_allow_html=True)
 
-st.header('Multi Model Predictions',)
+st.header('Multi Model Predictions')
 
 
 def run_status():
